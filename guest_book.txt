@@ -1,0 +1,5 @@
+Will
+Bill
+Jill
+
+(Typed Jill twice in terminal and the program deleted the duplicate.)
